@@ -6,6 +6,7 @@ print("HI, WELCOME TO THE HEALTH MANAGEMENT SYSTEM :)")
 print()
 name=''
 
+
 def _name():
 
     global name
